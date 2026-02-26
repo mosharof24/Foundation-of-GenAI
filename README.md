@@ -120,18 +120,3 @@ This repo covers **both theory and code**, progressing from first principles to 
 - Reproducible experiments and visualizations  
 
 ---
-
-## 📂 Repository Structure (Planned)
-```text
-.
-├── foundations/
-├── divergences/
-├── gans/
-├── vae/
-├── diffusion/
-├── autoregressive/
-├── ssm/
-├── alignment/
-├── evaluation/
-├── notebooks/
-└── utils/
